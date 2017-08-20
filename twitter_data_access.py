@@ -1,2 +1,4 @@
-Consumer Key (API Key)	=whNUhg5NcrmJyTRa6dSipOMq2
-Consumer Secret (API Secret)	=eACzXRYOySCouGzMDfbKI7d1lFNyavXagmmxD1tY6gf8XVhLZP
+ConsumerKey =whNUhg5NcrmJyTRa6dSipOMq2
+ConsumerSecret=eACzXRYOySCouGzMDfbKI7d1lFNyavXagmmxD1tY6gf8XVhLZP
+AccessToken=2677399741-UJrzodzbUn1HoEobo6T9mSq2tWxnmP37otu8MMw
+AccessTokenSecret=kLe3XbfjKV9uDdgp1iB08XqIkbEeMyUmrIjzRivvyF7RF
