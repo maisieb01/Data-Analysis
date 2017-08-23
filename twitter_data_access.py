@@ -8,6 +8,7 @@ Access_TokenSecret='kLe3XbfjKV9uDdgp1iB08XqIkbEeMyUmrIjzRivvyF7RF'
 auth= OAuthHandler (Consumer_Key , Consumer_Secret)
       OAuthHandler class : tweepy.OAuthHandler 
 auth.set_access_token(access_token,Access_TokenSecret)   
-    
+class Printlistener (streemlistener)
+def on_status(self,status) 
       
 
